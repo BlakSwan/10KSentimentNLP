@@ -1,0 +1,59 @@
+Analyzed/AAPLAnalyzed.pkl
+.vscode/launch.json
+.vscode/settings.json
+Analyzed/GOOGAnalyzed.pkl
+Analyzed/GSAnalyzed.pkl
+Analyzed/JPMAnalyzed.pkl
+Analyzed/KOAnalyzed.pkl
+Analyzed/LULUAnalyzed.pkl
+Analyzed/MCDAnalyzed.pkl
+Analyzed/MSFTAnalyzed.pkl
+Analyzed/SQAnalyzed.pkl
+Analyzed/TSLAAnalyzed.pkl
+Analyzed/XOMAnalyzed.pkl
+FinalData/AAPlFINAL.pkl
+FinalData/APPLFINAL.pkl
+FinalData/GOOGFINAL.pkl
+FinalData/JPMFINAL.pkl
+FinalData/KOFINAL.pkl
+FinalData/LULUFINAL.pkl
+FinalData/MCDFINAL.pkl
+FinalData/MSFTFINAL.pkl
+FinalData/SQFINAL.pkl
+FinalData/TSLAFINAL.pkl
+FinalData/XOMFINAL.pkl
+Initial Data/AAPL.pkl
+Initial Data/GOOG.pkl
+Initial Data/GS.pkl
+Initial Data/JPM.pkl
+Initial Data/KO.pkl
+Initial Data/LULU.pkl
+Initial Data/MCD.pkl
+Initial Data/MSFT.pkl
+Initial Data/SQ.pkl
+Initial Data/tsla.pkl
+Initial Data/XOM.pkl
+Prices/AAPl.csv
+Prices/GOOG.csv
+Prices/GS.csv
+Prices/JPM.csv
+Prices/KO.csv
+Prices/LULU.csv
+Prices/MCD.csv
+Prices/MSFT.csv
+Prices/SQ.csv
+Prices/TSLA.csv
+Prices/XOM.csv
+URL CSV's/AAPl.csv
+URL CSV's/GOOG.csv
+URL CSV's/GS.csv
+URL CSV's/JPM.csv
+URL CSV's/KO.csv
+URL CSV's/LULU.csv
+URL CSV's/MCD.csv
+URL CSV's/MSFT.csv
+URL CSV's/SQ.csv
+URL CSV's/TSLA.csv
+URL CSV's/XOM.csv
+SEC_API.txt
+APITEST.ipynb
